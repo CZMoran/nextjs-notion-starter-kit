@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: '2a43102c8c218057b8eaf3c3be7f162d',
 
   // basic site info (required)
-  name: 'Activate Asia's Biggest Market with Minimal Investment',
+  name: 'Activate Asias Biggest Market with Minimal Investment',
   domain: 'first-flyingfish-ce8.notion.site',
   author: 'Launch East',
 
